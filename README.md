@@ -4,9 +4,9 @@
 - 👀 I’m interested in Front-end
 - 🌱 Recently I've finished my first frontend course and still working to improve my skills in:
 
-  - Javascript
-  - ReactJS
-  - Scss
+  - Javascript ![js](https://img.icons8.com/color/24/000000/javascript--v1.png)
+  - ReactJS ![react](https://img.icons8.com/ios/24/000000/react-native--v1.png)
+  - Scss ![sass](https://img.icons8.com/color/24/000000/sass-avatar.png)
   
 - 💞️ I’m looking to collaborate on projects that will help me gain knowledge and experience in creating frontend applications.
 - 📫 How to reach me: kusiu@vp.pl.
