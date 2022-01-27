@@ -9,7 +9,7 @@
   - Scss ![sass](https://img.icons8.com/color/24/000000/sass-avatar.png)
   
 - 💞️ I’m looking to collaborate on projects that will help me gain knowledge and experience in creating frontend applications.
-- 📫 How to reach me: kusiu@vp.pl.
+- 📫 How to reach me: lukasz.kus84@outlook.com.
 
 <!---
 lukaszkus/lukaszkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
