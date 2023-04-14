@@ -1,20 +1,18 @@
 # Hi 👋! I'm Łukasz
 
-[![LinkedIn][linkedin-badge]][linkedin-url]
-
 I am a frontend developer with a passion for creating amazing user interfaces and user experience.
 I have over a year of experience in creating web and mobile applications especially in React technology.
-I create websites that are fast, easy to use and built with best practices. 
+I create websites that are fast, easy to use and built with best practices.
 I am well organized, problem solver and have strong design skills with high attention to details.
 
 ## 🖼️ Projects
 
 |                                                                                   |                                                                          |
 | :-------------------------------------------------------------------------------: | :----------------------------------------------------------------------: |
-|  [![Screenshot][topalbums]](https://github.com/lukaszkus/react-native-music-app)  |     [![Screenshot][todoapp]](https://github.com/lukaszkus/todo-app)      |
-|                                    Top Albums                                     |                                 TODO App                                 |
-| [![Screenshot][frontendmentor]](https://github.com/lukaszkus/frontend-mentor-aio) | [![Screenshot][informatyk]](https://github.com/lukaszkus/informatyk-app) |
-|                             Frontend Mentor Solutions                             |                          Informatyk na godziny                           |
+|  [![Screenshot][topalbums]](https://github.com/lukaszkus/react-native-music-app)  | [![Screenshot][informatyk]](https://github.com/lukaszkus/informatyk-app) |
+|                                    Top Albums                                     |                          Informatyk na godziny                           |
+| [![Screenshot][frontendmentor]](https://github.com/lukaszkus/frontend-mentor-aio) |     [![Screenshot][todoapp]](https://github.com/lukaszkus/todo-app)      |
+|                             Frontend Mentor Solutions                             |                                 Todo App                                 |
 |                                                                                   |                                                                          |
 
 ## 🤹 Skills
@@ -29,16 +27,18 @@ I am well organized, problem solver and have strong design skills with high atte
 
 ## 📫 Contact
 
-Get in touch: lukasz.kus84@outlook.com
+Get in touch: hello.kusiu@gmail.com
+
+[![LinkedIn][linkedin-badge]][linkedin-url]
 
 <!---
 lukaszkus/lukaszkus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[topalbums]: assets/TopAlbums.png
-[todoapp]: assets/TodoApp.png
-[frontendmentor]: assets/FrontendMentor.png
-[informatyk]: assets/informatyk.png
+[topalbums]: assets/TopAlbums.jpg
+[todoapp]: assets/TodoApp.jpg
+[frontendmentor]: assets/FrontendMentor.jpg
+[informatyk]: assets/informatyk.jpg
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/lukasz-kus/
