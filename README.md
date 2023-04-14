@@ -1,9 +1,11 @@
-# Hi there 👋! I'm Łukasz Kuś.
+# Hi 👋! I'm Łukasz
 
 [![LinkedIn][linkedin-badge]][linkedin-url]
 
-I'm a graphic designer with a strong design skill-set, attention to detail, and 1+ year of experience in creating web and mobile applications.
-I want to work as a Front-end Developer and create <i>digital magic</i> and elevate user interfaces and user experience to the next level.
+I am a frontend developer with a passion for creating amazing user interfaces and user experience.
+I have over a year of experience in creating web and mobile applications especially in React technology.
+I create websites that are fast, easy to use and built with best practices. 
+I am well organized, problem solver and have strong design skills with high attention to details.
 
 ## 🖼️ Projects
 
