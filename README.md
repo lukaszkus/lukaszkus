@@ -1,7 +1,7 @@
 # Hi 👋! I'm Łukasz
 
 I am a frontend developer with a passion for creating amazing user interfaces and user experience.
-I have over a year of experience in creating web and mobile applications especially in React technology.
+I have over to years of experience in creating web and mobile applications especially in React technology.
 I create websites that are fast, easy to use and built with best practices.
 I am well organized, problem solver and have strong design skills with high attention to details.
 
